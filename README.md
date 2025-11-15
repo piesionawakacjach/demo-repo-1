@@ -7,3 +7,5 @@ I use this repo to learn GitHub
 
 This is a local change!
 
+This is a local change from VSC!
+
